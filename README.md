@@ -1,6 +1,6 @@
 # gisvue
 
-> A Vue.js project
+> 基于Vue+ElementUI+OpenLayers的前端架构
 
 ## Build Setup
 
