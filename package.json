@@ -1,7 +1,7 @@
 {
   "name": "gisvue",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "基于Vue+ElementUI+OpenLayers的前端架构",
   "author": "zhangguoliang",
   "private": true,
   "scripts": {
